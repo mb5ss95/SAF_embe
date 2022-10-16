@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\moon\documents\github\saf_embe\220929_embec\220929_embec\소스.cpp(27): error C2371: 'c': 재정의. 기본 형식이 다릅니다.
+  c:\users\moon\documents\github\saf_embe\220929_embec\220929_embec\소스.cpp(25): note: 'c' 선언을 참조하십시오.
